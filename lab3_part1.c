@@ -1,5 +1,5 @@
-/*	Author: hongan Zhang
- *  Partner(s) Name: aaabbbccc 5/6/2021
+/*	Author: hongan Zhang 5/19 4:53
+ *  Partner(s) Name: 
  *
  */
 #include <avr/io.h>
@@ -9,7 +9,7 @@
 
 int main(void)
 {
-    /* let me show you some
+    /* Time
     /* Insert DDR and PORT initializations */
     // Inputs
     DDRA = 0x00; PORTA = 0xFF;
