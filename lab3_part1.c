@@ -9,7 +9,7 @@
 
 int main(void)
 {
-    /* Time
+    /* Time 10:41 5/19
     /* Insert DDR and PORT initializations */
     // Inputs
     DDRA = 0x00; PORTA = 0xFF;
