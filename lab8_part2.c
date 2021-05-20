@@ -1,5 +1,5 @@
 /*	Author: Hongan Zhang
- *	Lab Section: 022
+ *	Lab Section: 022  time : 9:44
  *	Assignment: Lab 8  Exercise 2
  *	Exercise Description:
  *
